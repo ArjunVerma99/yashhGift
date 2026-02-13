@@ -8,7 +8,7 @@
 body {
     height: 100vh;
     background: linear-gradient(135deg, #ff9a9e, #fad0c4);
-    background-image: url("/images/bg\ pic.jpg");
+    background-image: url("./bg pic.jpg");
     background-size: cover;
     display: flex;
     align-items: center;
@@ -133,3 +133,4 @@ button:hover {
         opacity: 0;
     }
 }
+
